@@ -2,7 +2,7 @@
 home: true
 layout: Blog
 icon: home
-title: 博客主页
+title: Reginfu
 heroImage: /logo.svg
 heroText: Reginfu #TODO: 你博客的名称
 heroFullScreen: true
