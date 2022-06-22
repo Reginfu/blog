@@ -2,11 +2,11 @@
 home: true
 layout: Blog
 icon: home
-title: Reginfu
+title: 博客主页
 heroImage: /logo.svg
 heroText: Reginfu #TODO: 你博客的名称
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语 #TODO: 你可以在这里放置你的口号与标语
+tagline: 有志少女先谋生后谋爱 #TODO: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
     name: 短视频H5 #TODO: 你自己的项目
